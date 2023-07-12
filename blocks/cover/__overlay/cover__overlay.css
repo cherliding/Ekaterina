@@ -1,0 +1,8 @@
+.cover__overlay {
+    width: 1184px;
+    height: 740px;
+    background-color: #2A2C2F;
+    margin: 0 auto;
+    background-image: url(../../../img/trains.png);
+    opacity: 30%;
+}

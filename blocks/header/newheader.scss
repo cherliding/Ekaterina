@@ -3,6 +3,7 @@ $widthContainer: 176px;
 .header {
     display: flex;
     justify-content: space-between;
+    width: 100%;
 
     .header__logo {
         background-image: url('../../img/logo/logo.svg');

@@ -1,1 +1,1 @@
-{"version":3,"sources":["newheader.scss","newheader.css"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,8BAAA;ACDJ;ADGI;EACI,gDAAA;EACA,YARS;EAST,YAAA;EACA,2BAAA;ACDR","file":"newheader.css"}
+{"version":3,"sources":["newheader.scss","newheader.css"],"names":[],"mappings":"AAEA;EACI,aAAA;EACA,8BAAA;EACA,WAAA;ACDJ;ADGI;EACI,gDAAA;EACA,YATS;EAUT,YAAA;EACA,2BAAA;ACDR","file":"newheader.css"}
